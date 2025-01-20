@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @yue-Temple
-
 # ポートフォリオを掲載しています
-
+👋 Hi, I’m @yue-Temple
+<br>
 ## メイン
 ポートフォリオ不足を自覚し、製作に至ったWebアプリ
 ### フロントエンド
@@ -12,7 +11,7 @@
 - **開発ツール**: TypeScript + Nodemon
 - **データベース**: MySQL + TypeORM
 
-<br>
+<br><br>
 
 
 ## サブ（sub_portfolio）（見る価値無し）
