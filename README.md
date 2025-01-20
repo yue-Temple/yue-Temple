@@ -14,7 +14,8 @@
 <br><br>
 
 
-## サブ（sub_portfolio）（見る価値無し）
+## サブ（sub_portfolio）
+-# （見る価値無し）
 新卒で入社した企業の研修で作った簡単な発注アプリ
   - 使用技術：JAVA,eclipse
   
