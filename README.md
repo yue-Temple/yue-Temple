@@ -15,8 +15,8 @@
 
 
 ## ◆サブ（sub_portfolio）（見る価値無し） 
-新卒で入社した企業の研修で作った簡単な発注アプリ
-  - 使用技術：JAVA,eclipse
+新卒の研修で作った簡単な発注アプリ
+  - 使用技術：JAVA,Java Servlet,eclipse
   
 大学在学中にバイト先のコンサル会社で作ったフォルダ内検索ツール
   - 使用技術：PowerShell
