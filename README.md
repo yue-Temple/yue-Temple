@@ -8,7 +8,7 @@
 - **開発ツール**: Vite + TypeScript
 ### バックエンド
 - **フレームワーク**: Express
-- **開発ツール**: TypeScript + Nodemon
+- **開発ツール**: Nodejs + TypeScript
 - **データベース**: MySQL + TypeORM
 
 <br><br>
