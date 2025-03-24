@@ -7,9 +7,9 @@
 - **フレームワーク**: Vue 3
 - **開発ツール**: Vite + TypeScript
 ### バックエンド
-- **フレームワーク**: Express
+- **フレームワーク**: Fastify
 - **開発ツール**: Nodejs + TypeScript
-- **データベース**: MySQL + TypeORM
+- **データベース**: PostgreSQL + TypeORM
 
 <br><br>
 
